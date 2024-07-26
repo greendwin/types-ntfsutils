@@ -1,0 +1,12 @@
+# python stuff
+.pytest_cache/
+.coverage/
+__pycache__/
+.tox/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# temp files
+tmp/
+dist/
